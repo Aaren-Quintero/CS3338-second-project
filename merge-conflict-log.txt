@@ -1,0 +1,74 @@
+commit 87a6f8aff7a1247304cfbe35b1ca75e8bbed73e1
+Author: Aaren Quintero <aquint108@calstatela.edu>
+Date:   Sun Feb 9 22:05:33 2025 -0800
+
+    merge conflict resolved
+
+commit aaf42547df2da92cc776ca443342be19ea895383
+Author: Aaren Quintero <aquint108@calstatela.edu>
+Date:   Thu Feb 6 17:27:46 2025 -0800
+
+    Added git_log.txt and repo-location.txt
+
+commit af12757eca659fcffb1dab806dcb2ed64377b26b
+Author: Aaren Quintero <aquint108@calstatela.edu>
+Date:   Thu Feb 6 17:12:48 2025 -0800
+
+    added favorite video game
+
+commit afd411fecfc10afe86063cb6a37106b3f88b6ea8
+Author: Aaren Quintero <aquint108@calstatela.edu>
+Date:   Mon Feb 3 14:00:19 2025 -0800
+
+    Added my favorite game
+
+commit c844c7e0bee4cb34a8e27bc5c160bf9a4d864cef
+Author: Aaren Quintero <aquint108@calstatela.edu>
+Date:   Mon Feb 3 13:48:46 2025 -0800
+
+    My favorite game is added
+
+commit 7cb31e77bd75d1766b854034cba103cb35a8c3d3
+Author: Aaren Quintero <aquint108@calstatela.edu>
+Date:   Mon Feb 3 13:20:22 2025 -0800
+
+    Added my favorite game
+
+commit 83c91424166e82b10d2aba717662fe2c4f99a72d
+Author: Aaren Quintero <aquint108@calstatela.edu>
+Date:   Mon Feb 3 13:11:33 2025 -0800
+
+    Favorite food is added
+
+commit 92bae55dcae132173ac35f0df21dc13a2dc5e40a
+Author: Aaren Quintero <aquint108@calstatela.edu>
+Date:   Fri Jan 31 13:38:01 2025 -0800
+
+    Commit my README
+
+commit 8e6e313f73887a0193bda1589d2c351029554057
+Author: Aaren Quintero <aquint108@calstatela.edu>
+Date:   Fri Jan 31 13:27:09 2025 -0800
+
+    Commit my README
+
+commit 16c5ee9a4cf383c7fed854b067d69185dad9e451
+Merge: 1d2bfc0 a8c0881
+Author: Aaren-Quintero <aquint108@calstatela.edu>
+Date:   Fri Jan 31 13:22:47 2025 -0800
+
+    Merge pull request #1 from Aaren-Quintero/info-fill
+    
+    Updated index
+
+commit a8c0881cc41b21e8738d06f5cdb72f3b973f5382
+Author: Aaren Quintero <aquint108@calstatela.edu>
+Date:   Fri Jan 31 13:14:01 2025 -0800
+
+    Updated index
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
